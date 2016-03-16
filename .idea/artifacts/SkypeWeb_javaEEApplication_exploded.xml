@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="SkypeWeb:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkypeWebApp</output-path>
+    <root id="archive" name="SkypeWeb_javaEEApplication exploded.ear">
+      <element id="javaee-facet-resources" facet="SkypeWeb/javaeeApplication/SkypeStatsWebApp" />
+      <element id="directory" name="lib">
+        <element id="archive" name="SkypeWeb.jar">
+          <element id="module-output" name="SkypeWeb" />
+        </element>
+      </element>
+      <element id="artifact" artifact-name="SkypeWeb:Web exploded" />
+    </root>
+  </artifact>
+</component>
